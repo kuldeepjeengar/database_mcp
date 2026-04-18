@@ -284,7 +284,7 @@ Then visit `http://localhost:8000` and try each tool interactively.
 
 ```bash
 # 1. Navigate to project
-cd c:\Users\kulde\Downloads\projects\first_MCP
+cd c:\Users\****\Downloads\projects\first_MCP
 
 # 2. Run the server
 uv run fastmcp run my_server.py
